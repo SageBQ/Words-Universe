@@ -4,7 +4,7 @@
 
 ## 项目入口
 
-- [打开网页](https://sunbaoaoquan.github.io/Words-Universe/)
+- [打开网页](https://sagebq.github.io/Words-Universe/)
 - [下载单文件 HTML](./Lexicon-词汇宇宙-可导入PDF版.html)
 
 学习功能包括错因记录与优先复习、近义词辨析练习、词书出处与词典核验入口、多种学习模式，以及按星系统计的成长星图。学习记录仅在当前浏览器本机保存。
